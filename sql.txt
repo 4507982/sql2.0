@@ -1,0 +1,4 @@
+Select * from suppplier country_name
+Select * from customers country_name
+
+Select customers.country_name from customers union * supppliers.country_name
